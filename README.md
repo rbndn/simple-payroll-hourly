@@ -8,3 +8,7 @@ Simple hourly payroll system using PHP
   *Employee Schedule
   *Payroll on Date Range
   *Payslip on Date Range
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
