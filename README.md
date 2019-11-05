@@ -25,6 +25,6 @@ Simple hourly payroll system using PHP
 
 ![GitHub Logo](/1.jpg)
 
-
+![GitHub Logo](/2.jpg)
 
 
