@@ -22,3 +22,8 @@ Simple hourly payroll system using PHP
   * Import the included .sql file which is the database of the system. If you have no idea on how to import, please refer to my tutorial      on How import .sql file to restore MySQL database.
 
   * After a successful import, open the extracted folder and open conn.php in both the root folder and in admin/includes folder. Edit the      database name in the connection depending on the name of database you created in importing the included .sql file.
+
+![GitHub Logo](/images/1.jpg)
+
+
+![GitHub Logo](/images/2.jpg)
